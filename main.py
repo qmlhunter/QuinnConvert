@@ -1,6 +1,5 @@
 import time
 import base64
-#Dictionary = {"a": "u9ur493", "b": "c93nrf0", "c": "39jf", "d": "f380hr", "e": "vwc0j", "f": "289uec", "g": "jq98cmq", "h": "q2dc3j0", "j": "c3h2", "k": "kc03", "l" "29jd", "m": "c3j22", "n": "2cidj", "o": "x0923iq", "p": "qcio", "q": "qcn348y", "r": "2390c", "s": "9283fh", "t": "4293h", "u": "293j49j", "v": "2398fn", "w": "0j3fn", "x": "h4893hd", "y": "4938f", "z": "943hiof", "1": "jdkmvl", "2": "f3jionek", "3": "938fhui", "4": "9034fhio", "5": "93fijoe", "6": "4893h", "7": "3409fje", "8": "039fo", "9": "930fji", "0": "390fhio", " ": "yj8jcd", "@": "fioj23", "+": "ff9r3"}
 def Hexencode():
   pole = input("What would you like to convert to hex?\n")
   text = bytes(pole, 'utf-8')
